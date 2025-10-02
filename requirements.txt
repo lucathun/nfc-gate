@@ -1,5 +1,5 @@
 kivy
-smartcard
+pyscard
 kivy_deps.sdl2; sys_platform == "win32"
 kivy_deps.glew; sys_platform == "win32"
 kivy_deps.angle; sys_platform == "win32"
