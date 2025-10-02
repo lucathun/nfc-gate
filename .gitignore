@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtualenv
+.venv/
+
+# SQLite DB (nur CSV ins Repo, DB wird lokal neu erstellt)
+db/cards.db
+
+# Kivy Logs
+.kivy/
+
+# Systemdateien
+.DS_Store
+Thumbs.db
